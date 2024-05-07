@@ -1,0 +1,99 @@
+{  
+  "Call": {
+    "stateDescription": {
+      "CLOSED": " - FREI - ",
+      "ESTABLISHED": "verbunden",
+      "INCOMING": "eingehender Anruf",
+      "OUTGOING": "Wähle...",
+      "PROGRESS": "Anruf Status Prozess",
+      "RINGING": "Rückruf",
+      "TRANSFER": "Transfer",
+      "TRANSFER_OOD": "Transfer OOD",
+      "TRYING": "Rufaufbau..."
+    },
+    "stateName": {
+      "CLOSED": "beendet",
+      "ESTABLISHED": "hergestellt",
+      "INCOMING": "eingehend",
+      "OUTGOING": "ausgehend",
+      "PROGRESS": "in Arbeit",
+      "RINGING": "klingelnd",
+      "TRANSFER": "Transfer",
+      "TRANSFER_OOD": "Transfer OOD",
+      "TRYING": "Rufaufbau"
+    }
+  },
+  "TfrmContactEditor": {
+    "btnApply": "Anwenden",
+    "btnCancel": "Absagen",
+    "caption": "Kontakt hinzufügen/bearbeiten",
+    "lblCompany": "Gesellschaft",
+    "lblContactFile": "Datei",
+    "lblDescription": "Beschreibung",
+    "lblNote": "Notiz",
+    "lblNumber1": "Nummer #1",
+    "lblNumber2": "Nummer #2",
+    "lblNumber3": "Nummer #3",
+    "msgFileNotSpecified": "Datei konnte nicht bearbeitet werden, Datei ist nicht angegeben"
+  },
+  "TfrmContacts": {
+    "miAdd": "Hinzufügen",
+    "miDelete": "Löschen",
+    "miEdit": "Bearbeiten",
+    "multiItemCallText": "Anruf...",
+    "multiItemMessageText": "Nachricht senden...",
+    "noNumberUriText": "keine Nummer/URI",
+    "singleItemCallText": "Anruf:",
+    "singleItemMessageText": "Nachricht senden:"
+  },
+  "TfrmHistory": {
+    "callTimeText": "Zeit für Anrufe:",
+    "codecText": "Codec:",
+    "incomingCallText": "Eingehender Anruf",
+    "miAddEditPhonebook": "Telefonbucheintrag hinzufügen/bearbeiten",
+    "miCopyNumber": "Nummer kopieren",
+    "miHttpQuery": "HTTP-Abfrage",
+    "miMessage": "Nachricht",
+    "miOpenInExplorer": "Im Dateimanager öffnen",
+    "miRecordFile": "Anrufaufzeichnung",
+    "miRecordFileOpen": "In Standardanwendung öffnen",
+    "nameNumber": "Name/Nummer",
+    "notCompletedText": "(nicht vollständig)",
+    "outgoingCallText": "Ausgehender Anruf",
+    "replyCode": "SIP-Antwortcode:",
+    "replyLine": "SIP-Antwortleitung",
+    "timestamp": "Zeitstempel",
+    "unansweredText": "(unbeantwortet)"
+  },
+  "TfrmMain": {
+    "btnHangup": "Auflegen",
+    "btnMakeCall": "Wahl und Annahme",
+    "miAbout": "Über...",
+    "miClearCallsHistory": "Historie leeren",
+    "miCommonSettings": "Einstellungen.",
+    "miExit": "Beenden",
+    "miFile": "Datei",
+    "miHelp": "Hilfe",
+    "miImportContactsFromCsv": "Importiere Kontakte aus CSV-Datei",
+    "miImportContactsFromXml": "Importiere Kontakte aus XML-Datei",
+    "miMessages": "Nachrichten",
+    "miMinimizeTray": "In Systray minimieren",
+    "miPatchButtonSettings": "Button-Einstellung aus JSON-Datei neu laden",
+    "miRefreshTranslationFromFile": "Übersetzung aus Datei neu laden",
+    "miScriptPluginVariables": "Skripte und Plugins-Variablen",
+    "miScripting": "Script-Fenster",
+    "miSettings": "Konfig",
+    "miSettingsPatch": "Einstellungen aus JSON-Datei neu laden",
+    "miTools": "Werkzeuge",
+    "miTroubleshooting": "Fehlerbehandlung",
+    "miView": "Ansicht",
+    "miViewLog": "Log",
+    "tsContacts": "Kontakte",
+    "tsDialpad": "Wählfeld",
+    "tsHistory": "Historie"
+  },
+  "TfrmTrayNotifier": {
+    "btnAnswer": "Antworten",
+    "btnHangup": "Ablehnen"
+  }
+}

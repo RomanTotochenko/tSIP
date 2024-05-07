@@ -1,0 +1,89 @@
+{
+  "Call": {
+    "stateDescription": {
+      "CLOSED": "- brak -",
+      "ESTABLISHED": "Połączono",
+      "INCOMING": "Połączenie przychodzące",
+      "OUTGOING": "Dzwonienie...",
+      "PROGRESS": "Postęp dzwonienia",
+      "RINGING": "Dzwoni...",
+      "TRANSFER": "Przekazanie",
+      "TRANSFER_OOD": "Przekazanie OOD",
+      "TRYING": "Próba..."
+    }
+  },
+  "TfrmContactEditor": {
+    "btnApply": "Zastosuj",
+    "btnCancel": "Anuluj",
+    "caption": "Dodaj/edytuj kontakt",
+    "lblCompany": "Firma",
+    "lblContactFile": "Plik",
+    "lblDescription": "Opis",
+    "lblNote": "Notatka",
+    "lblNumber1": "Numer #1",
+    "lblNumber2": "Numer #2",
+    "lblNumber3": "Numer #2",
+    "msgFileNotSpecified": "Nie można edytować pliku, plik nie został wybrany"
+  },
+  "TfrmContacts": {
+    "miAdd": "Dodaj",
+    "miDelete": "Usuń",
+    "miEdit": "Edytuj",
+    "multiItemCallText": "Zadzwoń...",
+    "multiItemMessageText": "Wyślij wiadomość...",
+    "noNumberUriText": "brak numeru/URI",
+    "singleItemCallText": "Zadzwoń:",
+    "singleItemMessageText": "Wyślij wiadomość:"
+  },
+  "TfrmHistory": {
+    "callTimeText": "Czas połączenia:",
+    "codecText": "Kodek:",
+    "incomingCallText": "Połączenie przychodzące",
+    "miAddEditPhonebook": "Dodaj/edytuj wpis w książce telefonicznej",
+    "miCopyNumber": "Skopiuj numer",
+    "miHttpQuery": "Zapytanie HTTP",
+    "miMessage": "Wyślij wiadomość",
+    "miOpenInExplorer": "Otwórz w menedżerze plików",
+    "miRecordFile": "Nagranie",
+    "miRecordFileOpen": "Otwórz w domyślnej aplikacji",
+    "nameNumber": "Nazwa/numer",
+    "notCompletedText": "(nieodebrane)",
+    "outgoingCallText": "Połączenie wychodzące",
+    "replyCode": "Kod odpowiedzi SIP:",
+    "replyLine": "Odpowiedź SIP:",
+    "timestamp": "Czas",
+    "unansweredText": "(nieodebrane)"
+  },
+  "TfrmMain": {
+    "btnHangup": "Zakończ",
+    "btnMakeCall": "Zadzwoń/Odbierz",
+    "edTransferHint": "Przekaż do... [Enter]",
+    "miAbout": "O programie",
+    "miClearCallsHistory": "Wyczyść historię połączeń",
+    "miCommonSettings": "Konfiguracja ogólna",
+    "miExit": "Zakończ",
+    "miFile": "Plik",
+    "miHelp": "Pomoc",
+    "miImportContactsFromCsv": "Importuj kontakty z pliku CSV",
+    "miImportContactsFromXml": "Importuj kontakty z pliku XML (jak Yealink)",
+    "miMessages": "Wiadomości tekstowe",
+    "miMinimizeTray": "Minimizuj do zasobnika",
+    "miPatchButtonSettings": "Konfiguracja przycisków - patch",
+    "miRefreshTranslationFromFile": "Przeładuj plik tłumaczeń",
+    "miScriptPluginVariables": "Zmienne skryptów i pluginów",
+    "miScripting": "Skrypt - Lua",
+    "miSettings": "Ustawienia",
+    "miSettingsPatch": "Konfiguracja ogólna - patch",
+    "miTools": "Narzędzia",
+    "miTroubleshooting": "Rozwiązywanie problemów",
+    "miView": "Pokaż",
+    "miViewLog": "Log",
+    "tsContacts": "Książka tel.",
+    "tsDialpad": "Klawiatura",
+    "tsHistory": "Historia"
+  },
+  "TfrmTrayNotifier": {
+    "btnAnswer": "Odbierz",
+    "btnHangup": "Zakończ"
+  }
+}
